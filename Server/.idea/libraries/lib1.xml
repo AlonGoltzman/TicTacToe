@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Server_war_exploded/WEB-INF/lib/TicTacToeConstants.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Server_war_exploded/WEB-INF/lib/java-json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
